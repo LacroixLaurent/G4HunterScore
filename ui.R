@@ -6,7 +6,7 @@ ui =fluidPage(
   #hr(),
 
 		wellPanel(textInput("seq",label= h3("Sequence"),value="GGGTTAGGGTTAGGGTTAGGG"),style="background-color:lightgreen;"),
-		wellPanel(h3("Score (length)"),h2(textOutput("text1")),style="background-color:lightblue;")
+		wellPanel(h3("Score (length)"),h1(textOutput("text1"),style="color:red;"),style="background-color:lightblue;")
 		)
 
 
