@@ -3,8 +3,7 @@
 Supplementary Data can be downloaded from [here](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4770238/bin/supp_44_4_1746__index.html).
 
 Just type your sequence in the **sequence** field and you get the score as in the [G4Hunter paper][paper ref].  
-In parenthesis, the app also reports the length of the sequence you typed (or pasted).
-
+In parenthesis, the app also reports the length of the sequence you typed (or pasted).  
 Only **C** and **G** contribute to the score, every other letter (or character) have a score of 0.  
 Spaces are automaticaly removed.
 
