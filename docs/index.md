@@ -3,7 +3,7 @@
 Supplementary Data can be downloaded from [NCBI](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4770238/bin/supp_44_4_1746__index.html) or [Github](https://github.com/LacroixLaurent/G4HunterPaperGit).  
 
 ##### The app requires the following packages:
-* S4Vectors
+* XVector
 * shiny
 
 ##### To run the app
